@@ -7,7 +7,7 @@ function LoginPage(props) {
             <h1>Create Account</h1>
             <LoginForm/>
             <h3>Already Have An Account ?</h3>
-            <a href="#"><h2>Sign In</h2></a>
+            <a href="/#"><h2>Sign In</h2></a>
 
         </div>
     );

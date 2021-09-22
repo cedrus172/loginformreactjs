@@ -14,8 +14,8 @@ function LoginForm(props) {
                 </div>     
                 <div className="form-input">
                     <p>
-                        By clicking Create Account, I agree to the <a href="#"> Temp of<br/>
-                        Service</a> and <a href="#">Privacy Policy</a>
+                        By clicking Create Account, I agree to the <a href="/#"> Temp of<br/>
+                        Service</a> and <a href="/#">Privacy Policy</a>
                     </p>
                 </div>  
                 <div className="form-input">
